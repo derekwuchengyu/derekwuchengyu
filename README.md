@@ -2,7 +2,9 @@
 - 👀 I’m interested in natural language processing(NLP), computer vision(CV) and math problems.
 - 🌱 I’m currently learning to be a graduate student.
 - 💞️ I’m looking to collaborate on starting up a busseness.
-- 📫 Reach me through the email: d101201007@g.ncu.edu.tw
+- 📫 Reach me through the email: d101201007@g.ncu.edu.tw or visit my blog https://medium.com/@d101201007. 
+
+Have a nice day!
 
 <!---
 derekwuchengyu/derekwuchengyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
