@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Derek, with 4 years experience in algorithm engineering. I was major in math.
-- 👀 I’m interested in natural language processing(NLP), computer vision(CV) and math problems.
-- 🌱 I’m currently learning to be a graduate student.
+- 👋 Hi, I'm Derek, an algorithm engineer with 4 years of experience in recommendation systems.
+- 🎓 I majored in Mathematics and am completing my Master's in Computer Science.
+- 🌱 My graduate research focuses on autonomous vehicles.
+- 👀 I'm interested in autonomous driving, robotics, NLP, CV, and math problems.
 - 💞️ I’m looking to collaborate on starting up a busseness.
-- 📫 Reach me through the email: d101201007@g.ncu.edu.tw or visit my blog https://medium.com/@d101201007. 
+- 📫 Reach me through the email: chywu@nycu.edu.tw or visit my blog https://medium.com/@d101201007. 
 
 Have a nice day!
 
